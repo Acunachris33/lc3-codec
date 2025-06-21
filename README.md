@@ -2,7 +2,7 @@
 
 Low Complexity Communication Codec. This is an implementation of the the Bluetooth(r) LC3 Audio Codec revision 1.0 (released on 2020-09-15) targeting `no_std` environments. 
 
-This is not currently approved or verified in any formal way other than my own testing against a codec that has been validated. Both encoding and decoding are working for some music I have thrown at it. The music files have not been included in this repo for copyright reasons.
+        This is not currently approved or verified in any formal way other than my own testing against a codec that has been validated. Both encoding and decoding are working for some music I have thrown at it. The music files have not been included in this repo for copyright reasons.
 
 To start take a look at the `lc3_decoder.rs` and `lc3_encoder.rs` files.
 
